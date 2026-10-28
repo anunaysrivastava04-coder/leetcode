@@ -16,6 +16,7 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -50,4 +51,12 @@ leetcode questions and solutions
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0112-path-sum) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
