@@ -2,7 +2,7 @@
 leetcode questions and solutions 
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Topics.
 ## Linked List
 |  |
 | ------- |
