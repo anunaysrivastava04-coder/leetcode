@@ -2,7 +2,7 @@
 leetcode questions and solutions 
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics.
+# LeetCode Topics
 ## Linked List
 |  |
 | ------- |
@@ -63,4 +63,12 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
