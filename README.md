@@ -7,6 +7,7 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ leetcode questions and solutions
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -43,18 +45,21 @@ leetcode questions and solutions
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Array
 |  |
 | ------- |
