@@ -91,6 +91,7 @@ leetcode questions and solutions
 | [0125-valid-palindrome](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ leetcode questions and solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 ## Greedy
 |  |
 | ------- |
