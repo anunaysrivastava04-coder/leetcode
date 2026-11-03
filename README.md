@@ -52,6 +52,7 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -101,6 +102,7 @@ leetcode questions and solutions
 | [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
