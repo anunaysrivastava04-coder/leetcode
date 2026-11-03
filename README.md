@@ -12,6 +12,7 @@ leetcode questions and solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -79,6 +80,7 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
