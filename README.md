@@ -83,6 +83,7 @@ leetcode questions and solutions
 | [0130-surrounded-regions](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0136-single-number) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -144,4 +145,8 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0133-clone-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
