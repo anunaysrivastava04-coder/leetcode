@@ -72,6 +72,7 @@ leetcode questions and solutions
 | [0120-triangle](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -104,8 +105,13 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
