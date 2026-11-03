@@ -20,6 +20,7 @@ leetcode questions and solutions
 | ------- |
 | [0143-reorder-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@ leetcode questions and solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -53,6 +55,7 @@ leetcode questions and solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +67,7 @@ leetcode questions and solutions
 | [0130-surrounded-regions](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
