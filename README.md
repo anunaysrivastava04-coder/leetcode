@@ -96,6 +96,7 @@ leetcode questions and solutions
 | [0136-single-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -144,6 +145,7 @@ leetcode questions and solutions
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -201,4 +203,20 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
