@@ -85,6 +85,7 @@ leetcode questions and solutions
 | [0134-gas-station](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -98,6 +99,7 @@ leetcode questions and solutions
 | [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +111,7 @@ leetcode questions and solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +129,7 @@ leetcode questions and solutions
 | [0128-longest-consecutive-sequence](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -151,4 +155,16 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0136-single-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
