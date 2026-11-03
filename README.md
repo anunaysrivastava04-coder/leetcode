@@ -10,6 +10,7 @@ leetcode questions and solutions
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ leetcode questions and solutions
 | [0138-copy-list-with-random-pointer](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0146-lru-cache) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -178,4 +180,12 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
