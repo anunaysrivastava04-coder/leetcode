@@ -86,6 +86,7 @@ leetcode questions and solutions
 | [0135-candy](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -100,6 +101,7 @@ leetcode questions and solutions
 | [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +114,7 @@ leetcode questions and solutions
 | [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +133,7 @@ leetcode questions and solutions
 | [0133-clone-graph](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -147,6 +151,7 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -159,10 +164,12 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
