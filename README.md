@@ -90,6 +90,7 @@ leetcode questions and solutions
 | [0115-distinct-subsequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ leetcode questions and solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -125,4 +127,8 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0130-surrounded-regions) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
