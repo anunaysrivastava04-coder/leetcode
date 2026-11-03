@@ -64,6 +64,7 @@ leetcode questions and solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ leetcode questions and solutions
 | ------- |
 | [0115-distinct-subsequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +100,12 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
