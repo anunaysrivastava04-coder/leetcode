@@ -65,6 +65,7 @@ leetcode questions and solutions
 | ------- |
 | [0118-pascals-triangle](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -80,4 +81,5 @@ leetcode questions and solutions
 | [0115-distinct-subsequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
