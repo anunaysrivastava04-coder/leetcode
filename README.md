@@ -63,6 +63,7 @@ leetcode questions and solutions
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0118-pascals-triangle) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -76,4 +77,5 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
