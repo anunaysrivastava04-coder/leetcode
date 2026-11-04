@@ -38,6 +38,7 @@ leetcode questions and solutions
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@ leetcode questions and solutions
 | [0152-maximum-product-subarray](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -157,6 +159,7 @@ leetcode questions and solutions
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -211,6 +214,7 @@ leetcode questions and solutions
 | ------- |
 | [0147-insertion-sort-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -232,4 +236,12 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
