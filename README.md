@@ -231,6 +231,7 @@ leetcode questions and solutions
 | [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## Geometry
 |  |
 | ------- |
