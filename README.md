@@ -108,6 +108,7 @@ leetcode questions and solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
+| [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -124,6 +125,7 @@ leetcode questions and solutions
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@ leetcode questions and solutions
 | [0146-lru-cache](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
+| [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -191,6 +194,7 @@ leetcode questions and solutions
 | ------- |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Memoization
 |  |
 | ------- |
@@ -215,6 +219,7 @@ leetcode questions and solutions
 | [0147-insertion-sort-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
+| [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Merge Sort
 |  |
 | ------- |
