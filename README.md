@@ -112,6 +112,7 @@ leetcode questions and solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0174-dungeon-game) |
 | [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -145,6 +146,7 @@ leetcode questions and solutions
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0174-dungeon-game) |
 ## Greedy
 |  |
 | ------- |
@@ -181,6 +183,7 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0174-dungeon-game) |
 ## Backtracking
 |  |
 | ------- |
