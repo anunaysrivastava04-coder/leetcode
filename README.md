@@ -264,4 +264,8 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
