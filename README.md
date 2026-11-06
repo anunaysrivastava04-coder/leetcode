@@ -115,6 +115,7 @@ leetcode questions and solutions
 | [0174-dungeon-game](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0174-dungeon-game) |
 | [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -147,6 +148,7 @@ leetcode questions and solutions
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0174-dungeon-game) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
 ## Greedy
 |  |
 | ------- |
@@ -268,4 +270,8 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0175-combine-two-tables) |
+## Prefix Sum
+|  |
+| ------- |
+| [1000-minimum-cost-to-merge-stones](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
 <!---LeetCode Topics End-->
