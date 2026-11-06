@@ -85,6 +85,7 @@ leetcode questions and solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0385-mini-parser](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@ leetcode questions and solutions
 | ------- |
 | [0139-word-break](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
+| [0386-lexicographical-numbers](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Memoization
 |  |
