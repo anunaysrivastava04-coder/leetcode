@@ -29,6 +29,7 @@ leetcode questions and solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0385-mini-parser](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0385-mini-parser) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -83,6 +84,7 @@ leetcode questions and solutions
 | [0133-clone-graph](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0385-mini-parser](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0385-mini-parser) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ leetcode questions and solutions
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0385-mini-parser](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0385-mini-parser) |
 | [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Dynamic Programming
 |  |
