@@ -20,6 +20,7 @@ leetcode questions and solutions
 | [0143-reorder-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +119,7 @@ leetcode questions and solutions
 | [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0189-rotate-array) |
 | [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0739-daily-temperatures) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -251,6 +253,7 @@ leetcode questions and solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0189-rotate-array) |
 ## Geometry
 |  |
 | ------- |
