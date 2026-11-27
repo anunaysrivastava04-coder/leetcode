@@ -143,6 +143,7 @@ leetcode questions and solutions
 | [0140-word-break-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0385-mini-parser](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0385-mini-parser) |
 | [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Dynamic Programming
@@ -184,6 +185,7 @@ leetcode questions and solutions
 | [0146-lru-cache](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0720-longest-word-in-dictionary](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Bidirectional Search
 |  |
@@ -213,6 +215,7 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0190-reverse-bits) |
 ## Trie
 |  |
@@ -304,4 +307,24 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
