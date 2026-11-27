@@ -86,6 +86,7 @@ leetcode questions and solutions
 | [0133-clone-graph](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0210-course-schedule-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0210-course-schedule-ii) |
 | [0385-mini-parser](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
@@ -97,6 +98,7 @@ leetcode questions and solutions
 | [0127-word-ladder](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0133-clone-graph) |
+| [0210-course-schedule-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0210-course-schedule-ii) |
 ## Array
 |  |
 | ------- |
@@ -204,6 +206,7 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0133-clone-graph) |
+| [0210-course-schedule-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0210-course-schedule-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -286,4 +289,8 @@ leetcode questions and solutions
 |  |
 | ------- |
 | [1000-minimum-cost-to-merge-stones](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/anunaysrivastava04-coder/leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
